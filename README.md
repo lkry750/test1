@@ -46,3 +46,7 @@
 
 - Unity 6000.6.2f1 / 2D URP
 - 初回のプレイ確認はUnity Editorで `Assets/Scenes/SampleScene.unity` を開いて再生してください。
+
+---
+
+GitHub側のメモ: unityのテストです
